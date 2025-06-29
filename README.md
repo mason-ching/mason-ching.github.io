@@ -1,0 +1,1 @@
+**Welcome to [my homepage](https://mason-ching.github.io/). It is built on Academic Pages, which is developed by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and released under the [MIT License](LICENSE).**
