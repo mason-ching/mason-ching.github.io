@@ -10,3 +10,37 @@ author_profile: true
 {% for post in site.activities reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<!-- Add your script here -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const gallery = document.getElementById('gallery');
+    const TOTAL_IMAGES = 56; // Update this to your actual number
+    for (let i = 1; i <= TOTAL_IMAGES; i++) {
+      const img = document.createElement('img');
+      img.src = `/images/TeachingVolunteer/IMG${i}.JPG`;  // Ensure correct path
+      img.alt = `IMG ${i}`;
+      img.loading = 'lazy';
+      gallery.appendChild(img);
+    }
+
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = lightbox.querySelector('img');
+    const closeBtn = lightbox.querySelector('.close');
+
+    gallery.addEventListener('click', e => {
+      if (e.target.tagName !== 'IMG') return;
+      lightboxImg.src = e.target.src;
+      lightbox.style.display = 'flex';
+    });
+
+    closeBtn.addEventListener('click', () => lightbox.style.display = 'none');
+    lightbox.addEventListener('click', e => {
+      if (e.target === lightbox) lightbox.style.display = 'none';
+    });
+
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') lightbox.style.display = 'none';
+    });
+  });
+</script>
