@@ -81,34 +81,3 @@ end-date: 2024-12-01
     Note: Participants were informed that photos would be publicly shared for project outreach, and no private data is disclosed.
 </p>
 
-<script>
-    // ------------- Dynamic gallery generation -------------
-    const gallery = document.getElementById('gallery');
-
-    // If your files are sequentially named: photo1.jpg … photoN.jpg
-    const TOTAL_IMAGES = 56;   // ← set this to however many you have
-    for (let i = 1; i <= TOTAL_IMAGES; i++) {
-        const img = document.createElement('img');
-        img.src = `/images/TeachingVolunteer/IMG${i}.JPG`;
-        img.alt = `IMG ${i}`;
-        img.loading = 'lazy';
-        gallery.appendChild(img);
-    }
-    // ------------- Lightbox logic -------------
-    const lightbox = document.getElementById('lightbox');
-    const lightboxImg = lightbox.querySelector('img');
-    const closeBtn = lightbox.querySelector('.close');
-
-    gallery.addEventListener('click', e => {
-        if (e.target.tagName !== 'IMG') return;
-        lightboxImg.src = e.target.src;
-        lightbox.style.display = 'flex';
-    });
-    closeBtn.addEventListener('click', () => lightbox.style.display = 'none');
-    lightbox.addEventListener('click', e => {
-        if (e.target === lightbox) lightbox.style.display = 'none';
-    });
-    document.addEventListener('keydown', e => {
-        if (e.key === 'Escape') lightbox.style.display = 'none';
-    });
-</script>
