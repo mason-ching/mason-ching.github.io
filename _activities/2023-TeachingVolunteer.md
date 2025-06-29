@@ -94,6 +94,8 @@ end-date: 2024-12-01
         img.loading = 'lazy';
         gallery.appendChild(img);
     }
+    console.log("Gallery script loaded...");
+    
     // ------------- Lightbox logic -------------
     const lightbox = document.getElementById('lightbox');
     const lightboxImg = lightbox.querySelector('img');
