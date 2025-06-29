@@ -69,7 +69,64 @@ end-date: 2024-12-01
 <hr style="border: none; border-top: 1px dashed #ccc; margin: 0 8px 1rem;" />
 <h3>Journey with my partners, my friends...</h3>
 
-<div class="gallery" id="gallery"></div>
+<div class="gallery">
+  <img src="/images/TeachingVolunteer/IMG1.JPG" alt="IMG 1" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG2.JPG" alt="IMG 2" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG3.JPG" alt="IMG 3" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG4.JPG" alt="IMG 4" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG5.JPG" alt="IMG 5" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG6.JPG" alt="IMG 6" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG7.JPG" alt="IMG 7" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG8.JPG" alt="IMG 8" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG9.JPG" alt="IMG 9" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG10.JPG" alt="IMG 10" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG11.JPG" alt="IMG 11" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG12.JPG" alt="IMG 12" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG13.JPG" alt="IMG 13" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG14.JPG" alt="IMG 14" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG15.JPG" alt="IMG 15" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG16.JPG" alt="IMG 16" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG17.JPG" alt="IMG 17" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG18.JPG" alt="IMG 18" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG19.JPG" alt="IMG 19" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG20.JPG" alt="IMG 20" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG21.JPG" alt="IMG 21" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG22.JPG" alt="IMG 22" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG23.JPG" alt="IMG 23" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG24.JPG" alt="IMG 24" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG25.JPG" alt="IMG 25" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG26.JPG" alt="IMG 26" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG27.JPG" alt="IMG 27" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG28.JPG" alt="IMG 28" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG29.JPG" alt="IMG 29" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG30.JPG" alt="IMG 30" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG31.JPG" alt="IMG 31" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG32.JPG" alt="IMG 32" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG33.JPG" alt="IMG 33" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG34.JPG" alt="IMG 34" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG35.JPG" alt="IMG 35" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG36.JPG" alt="IMG 36" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG37.JPG" alt="IMG 37" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG38.JPG" alt="IMG 38" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG39.JPG" alt="IMG 39" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG40.JPG" alt="IMG 40" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG41.JPG" alt="IMG 41" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG42.JPG" alt="IMG 42" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG43.JPG" alt="IMG 43" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG44.JPG" alt="IMG 44" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG45.JPG" alt="IMG 45" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG46.JPG" alt="IMG 46" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG47.JPG" alt="IMG 47" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG48.JPG" alt="IMG 48" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG49.JPG" alt="IMG 49" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG50.JPG" alt="IMG 50" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG51.JPG" alt="IMG 51" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG52.JPG" alt="IMG 52" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG53.JPG" alt="IMG 53" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG54.JPG" alt="IMG 54" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG55.JPG" alt="IMG 55" loading="lazy" />
+  <img src="/images/TeachingVolunteer/IMG56.JPG" alt="IMG 56" loading="lazy" />
+</div>
 
 <!-- Lightbox Overlay -->
 <div id="lightbox">
@@ -81,3 +138,31 @@ end-date: 2024-12-01
     Note: Participants were informed that photos would be publicly shared for project outreach, and no private data is disclosed.
 </p>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const gallery = document.querySelector(".gallery");
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = lightbox.querySelector("img");
+    const closeBtn = lightbox.querySelector(".close");
+
+    gallery.addEventListener("click", (e) => {
+      if (e.target.tagName !== "IMG") return;
+      lightboxImg.src = e.target.src;
+      lightbox.style.display = "flex";
+    });
+
+    closeBtn.addEventListener("click", () => {
+      lightbox.style.display = "none";
+    });
+
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) {
+        lightbox.style.display = "none";
+      }
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") lightbox.style.display = "none";
+    });
+  });
+</script>
