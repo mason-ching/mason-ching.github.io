@@ -39,7 +39,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 12%; margin-right: 10px;">
-    <img src="images/HENU.png" alt="HENU" style="width: 100%; height: 100%;">
+    <img src="/images/HENU.png" alt="HENU" style="width: 100%; height: 100%;">
   </div>
   <div style="flex: 1;">
     <div style="padding: 10px 20px; vertical-align: middle;">
@@ -53,7 +53,7 @@ redirect_from:
         <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
           <li>
             Undergraduate thesis: 
-            <a href="files/awards/RGxEStat.pdf" style="text-decoration: none;">
+            <a href="/files/awards/RGxEStat.pdf" style="text-decoration: none;">
               Significance and Stability Analysis of Gene-Environment Interaction
             </a>
           </li>
@@ -68,7 +68,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 12%; margin-right: 10px;">
-    <img src="images/AITA.png" alt="AITA" style="width: 100%; height: 100%;">
+    <img src="/images/AITA.png" alt="AITA" style="width: 100%; height: 100%;">
   </div>
   <div style="flex: 1;">
     <div style="padding: 10px 20px; vertical-align: middle;">
@@ -100,7 +100,7 @@ redirect_from:
     </a> Nov 2023
     <p style="font-size: 15px; margin: 5px 0 0 20px; margin-left: 0px; color: #666; text-align: justify;">
       We offer a
-      <a href="files/awards/CUMCM.pdf" style="text-decoration: none;">
+      <a href="/files/awards/CUMCM.pdf" style="text-decoration: none;">
         programme
       </a>to determine the optimal layout parameters of the heliostats and the receiver tower for maximizing solar energy efficiency. Specifically, we first analyze the relationship between the shadow loss and the solar altitude angle to estimate the shadowing rate, and then propose the geometric cosine model for the cosine efficiency. Based on this, we can calcutate the annual average optical efficiency and annual average thermal output power. Subsequently, leveraging geometric, physical, and geographical principles, we build a non-convex optimization model, aimed at maximizing the annual average thermal output power per unit mirror area. This model is solved using the grid search algorithm to explore all feasible parameter combinations and identify the global optimum. To improve the accuracy of shadowing efficiency, we further introduce a shadow determination model and a shadow calculation model, which help judge whether a heliostat is shaded and quantify the corresponding shadow losses when shading occurs.
     </p>
@@ -109,7 +109,7 @@ redirect_from:
 
 <ul style="font-size: 18px; margin-top: 8px; margin-left: 20px; padding-left: 20px; width: 97%;">
   <li>
-    <a href="files/awards/TJJM20230321006749.pdf" style="font-style: italic; color: inherit; text-decoration: none;">
+    <a href="/files/awards/TJJM20230321006749.pdf" style="font-style: italic; color: inherit; text-decoration: none;">
       Second Prize
     </a> in 
     <a href="http://tjjmds.ai-learning.net/" style="color: inherit; text-decoration: none;">
