@@ -98,7 +98,7 @@ end-date: 2024-12-01
             const TOTAL_IMAGES = 56;   // ← set this to however many you have
             for (let i = 1; i <= TOTAL_IMAGES; i++) {
                 const img = document.createElement('img');
-                img.src = `/images/TeachingVolunteer/IMG${i}.JPG`;
+                img.src = `images/TeachingVolunteer/IMG${i}.JPG`;
                 img.alt = `IMG ${i}`;
                 img.loading = 'lazy';
                 gallery.appendChild(img);
