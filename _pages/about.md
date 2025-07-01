@@ -102,7 +102,7 @@ redirect_from:
       We offer a
       <a href="/files/awards/CUMCM.pdf" style="text-decoration: none;">
         programme
-      </a>to determine the optimal layout parameters of the heliostats and the receiver tower for maximizing solar energy efficiency. Specifically, we first analyze the relationship between the shadow loss and the solar altitude angle to estimate the shadowing rate, and then propose the geometric cosine model for the cosine efficiency. Based on this, we can calcutate the annual average optical efficiency and annual average thermal output power. Subsequently, leveraging geometric, physical, and geographical principles, we build a non-convex optimization model, aimed at maximizing the annual average thermal output power per unit mirror area. This model is solved using the grid search algorithm to explore all feasible parameter combinations and identify the global optimum. To improve the accuracy of shadowing efficiency, we further introduce a shadow determination model and a shadow calculation model, which help judge whether a heliostat is shaded and quantify the corresponding shadow losses when shading occurs.
+      </a>to determine the optimal layout parameters of the heliostats and receiver tower for maximizing solar energy efficiency. Specifically, we first analyze the relationship between the shadow and solar altitude angle to estimate the shadowing rate, and then propose the geometric cosine model for cosine efficiency. Based on this, we can calcutate the annual average optical efficiency and annual average thermal output power. Subsequently, leveraging geometric, physical, and geographical principles, we build a non-convex optimization model, aimed at maximizing the annual average thermal output power per unit mirror area. This model is solved using the grid search algorithm to explore all feasible parameter combinations and identify the global optimum. To improve the accuracy of shadowing efficiency, we further introduce the shadow determination and calculation model, which helps judge whether a heliostat is shaded and quantify the corresponding shadow loss when shading occurs.
     </p>
   </li>
 </ul>
@@ -147,9 +147,9 @@ redirect_from:
   </li>
 </ul>
 
+<!--page reviews-->
 <!-- # My Visitors
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
-<div> -->
-  <!--page reviews-->
-  <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=111111&w=350&t=m&d=e3JHSjNJ4GVYBV7NaciNlvRw6q1-OuzX0MJ9wK2OE-g&co=ffffff&cmo=5eb5f2&cmn=ff7077&ct=000000'></script>
+<div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Dw0GfJxmB5VG4XjWuowBXmOw8-3H-0uYjU_MQYLmBH0&cl=ffffff&w=a"></script>
 </div> -->
