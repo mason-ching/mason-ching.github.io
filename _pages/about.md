@@ -12,7 +12,7 @@ redirect_from:
     Hi, I’m Meng’en Qin (秦蒙恩), a graduate from <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>, where I build a solid foundation in mathematics and statistics. My research journey began at <a href="https://aita.henu.edu.cn/" style="text-decoration: none;">AITA</a>, and there I was fortunate to work with <a href="https://maths.henu.edu.cn/info/1203/5620.htm" style="text-decoration: none;">Prof. Xiaohui Yang</a> to address interdisciplinary problems in chemistry and biology using statistical methods and deep learning models. Prior to that, I spent about half a year studying some topics, including semi-parametric regression, structural equation modeling, system dynamics, and sparse coding representations. Through multiple explorations and experiences, I gradually discovered a strong interest in 2D vision tasks, diffusion models, and multi-modal LLMs. In the final stage of my undergraduate life, I have shifted my focus toward these areas and actively participated in some related works.
   </p>
   <p style="margin-bottom: 15px;">
-    Courrently, I'm focusing on the isotropic issue in Gaussian angle representation of oriented 2D/3D objects, self-evolution and self-distillation in the diffusion sampling, masked diffusion models for long video reasoning.
+    Currently, I'm focusing on the isotropic issue in Gaussian angle representation of oriented 2D/3D objects, self-evolution and self-distillation in the diffusion sampling, masked diffusion models for long video reasoning.
     <!-- dynamic and causal video frame search (video sampling) -->
     <!-- video object removal -->
     <!-- masked image-text modeling -->
