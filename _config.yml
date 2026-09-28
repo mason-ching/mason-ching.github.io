@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "About Me" # The title of your site, this is used in the header and footer
 title_separator          : "-"
-name                     : &name "Meng'en Qin (Mason Ching)" # The name of the site owner
-description              : &description "Personal homepage of Meng'en Qin, who is working in the intersection of AI and mathematics and statistics."
+name                     : &name "Meng'en Qin" # The name of the site owner
+description              : &description "Homepage of Meng'en Qin, who is working in field of science-inspired deep learning."
 url                      : https://mason-ching.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"o
 repository               : "mason-ching/mason-ching.github.io"
@@ -23,11 +23,11 @@ repository               : "mason-ching/mason-ching.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Meng'en Qin (Mason)" # Full name
+  name             : "Meng'en Qin" # Full name
   pronouns         : # example: "she/her"  
-  bio              : "A stats graduate from Henan University, who has a strong interest in 2D vision, diffusion models, multi-modal LLMs."
-  location         : "Kaifeng, China" # City, Country
-  employer         : "Henan University"
+  bio              : "B.S. in Statistics"
+  location         : "Shenzhen, China" # City, Country
+  employer         : "RA@SUAT"
   uri              : # URL
   email            : "mengenching@gmail.com"
 
@@ -73,19 +73,15 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "mason-ching" # Username
-  zhihu            : "mason-ching" # Username
+  youtube          : # "mason-ching"
+  zhihu            : # "mason-ching"
 
 # Publication Category - The followings list publication categories and their headings
 publication_category:
-  book:
-    title: 'Books'
-  journal:
-    title: 'Journal'    
-  conference:
-    title: 'Conference'
-  preprint:
-    title: 'Preprint'
+  # book:
+  #   title: 'Books'
+  # paper:
+  #   title: 'Paper'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -121,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -216,12 +212,12 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # working:
-  #   output: true
-  #   permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  working:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
