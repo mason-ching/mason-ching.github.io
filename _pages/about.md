@@ -29,7 +29,7 @@ redirect_from:
     <!-- discrete/continuous/end-to-end/one-step diffusion models/consistency models -->
   <!-- </p> -->
   <blockquote style="margin-top: 20px;">
-    I am now looking for research internships, and also strongly determined to apply for a PhD program in Spring/Fall 2027.
+    Now, I am actively looking for research internships.
   </blockquote>
 </div>
 
@@ -39,7 +39,6 @@ redirect_from:
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
 # Education
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 12%; margin-right: 10px;">
     <img src="/images/HENU.png" alt="HENU" style="width: 100%; height: 100%;">
@@ -59,8 +58,7 @@ redirect_from:
 </div>
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
-# Research Experiences
-
+# Research Experience
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 12%; margin-right: 10px;">
     <img src="/images/SUAT.png" alt="SUAT" style="width: 100%; height: 100%;">
@@ -104,8 +102,11 @@ redirect_from:
 </div>
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
-# Honors and Awards
+# Service
+- Reviewer for Pattern Recognition Letters
+<hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
+# Honors and Awards
 <ul style="font-size: 18px; margin-top: 8px; margin-left: 20px; padding-left: 20px; width: 97%;">
   <li>
     <a style="font-style: italic; color: inherit; text-decoration: none;">
