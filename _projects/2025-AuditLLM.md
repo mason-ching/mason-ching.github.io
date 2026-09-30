@@ -4,7 +4,7 @@ collection: projects
 # type: "LLM for Audit"
 # permalink: /projects/2025-AuditLLM
 excerpt: |
-    <div style="text-align: justify; font-size: 16px; color: #666; margin: 5px 0 0 20px; margin-left: 0px;">
+    <div style="text-align: justify; font-size: 16px; color: inherit; margin: 0px 0px 0px 0px;">
         <p>
             The primary objective of this project is to design, fine-tune and deploy a secure, internally-facing Audit Large Language Model (ALLM) to empower auditors at <a href="https://sjt.henan.gov.cn/" style="text-decoration: none;">Henan Provincial Audit Department</a>. Built atop Qwen2.5-VL, ALLM need deliver intelligent support for audit Q&A, regulatory compliance and table-data analysis, improving audit efficiency and accuracy. In this project, I worked with Lutong Zhang and Haonan Zhang to finish:
         </p>

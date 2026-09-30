@@ -4,7 +4,7 @@ collection: projects
 # type: "DL for Biology"
 # permalink: /projects/2024-DL4Biology
 excerpt: |
-    <div style="text-align: justify; font-size: 16px; color: #666; margin: 5px 0 0 20px; margin-left: 0px;">
+    <div style="text-align: justify; font-size: 16px; color: inherit; margin: 0px 0px 0px 0px;">
         <p>
             This project aims to collect and quantify stomatal phenotypes from live field-grown peanut plants using an intelligent recognition system. By integrating phenotypic, genotypic and environmental data, we can perform Genome-Wide Association Study (GWAS) and Genotype-by-Environment Interaction Analysis (G×E) to identify key and high-stable regulatory genes. The ultimate goal is to discover superior genetic resources for peanut breeding under variable environments and enhance its productivity and adaptability. In this project, I worked with Quanling Zhao and Prof. Xiaohui Yang, as well as Dr. Chenyang Du and <a href="https://bio.henu.edu.cn/info/1033/3869.htm" style="text-decoration: none;">Prof. Chen Miao</a> from <a href="https://csai.henu.edu.cn/" style="text-decoration: none;">State Key Laboratory of Crop Stress Adaptation and Improvement</a>, to finish the following works:
         </p>

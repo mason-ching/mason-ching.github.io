@@ -4,7 +4,7 @@ collection: projects
 # type: "ML for Chemistry"
 # permalink: /projects/2023-ML4Chemistry
 excerpt: |
-    <p style="font-size: 16px; margin: 5px 0 0 20px; margin-left: 0px; color: #666; text-align: justify;">
+    <p style="font-size: 16px; margin: 0px 0px 0px 0px; color: inherit; text-align: justify;">
         This project is the beginning of my research journey. I collaborated with Yanhui Guo and Prof. Xiaohui Yang in modeling organic chemical synthesis reactions using statistical and machine learning tools. In the two papers, we utilized topological data analysis (TDA), ensemble learning, convolutional neural networks and multi-scale attention to build an intelligent system for yield analysis and prediction of organic synthesis. Our work aims to support researchers with comprehensive, multi-perspective decision-making information.
     </p>
 venue: "Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms, China"
