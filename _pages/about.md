@@ -9,7 +9,7 @@ redirect_from:
 <div style="text-align: justify; width: 100%;">
   <p style="margin-bottom: 15px;">
     Hi, I’m Meng’en Qin (秦蒙恩), a statistics graduate from <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>. My research journey began at <a href="https://aita.henu.edu.cn/" style="text-decoration: none;">Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms</a>, working on computer vision and its interdisciplinary applications.
-    Currently, I'm focusing on the mathematical interpretability and hallucinations in multimodal LLMs, fortunately working with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Dist. Prof. Song Wang</a> from <a href="https://suat-sz.edu.cn/en/" style="text-decoration: none;">Shenzhen University of Advanced Technology</a>.
+    Recently, I've focused on the mathematical interpretability and hallucinations in multimodal LLMs, working with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Dist. Prof. Song Wang</a> from <a href="https://suat-sz.edu.cn/en/" style="text-decoration: none;">Shenzhen University of Advanced Technology</a>.
   </p>
   <!-- <p style="margin-bottom: 15px;"> -->
     <!-- Prior to that, I spent about half a year studying some topics, including semi-parametric regression, structural equation modeling, system dynamics, and sparse coding representations. Through multiple explorations and experiences, I gradually discovered a strong interest in 2D vision tasks, diffusion models, and multi-modal LLMs. In the final stage of my undergraduate life, I have shifted my focus toward these areas and actively participated in some related works. -->
@@ -28,7 +28,7 @@ redirect_from:
     <!-- discrete/continuous/end-to-end/one-step diffusion models/consistency models -->
   <!-- </p> -->
   <blockquote style="margin-top: 20px;">
-    Now, I am actively looking for research internships.
+    Now, I am actively looking for overseas research internships.
   </blockquote>
 </div>
 
