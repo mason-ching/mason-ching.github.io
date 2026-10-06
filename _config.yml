@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "About Me" # The title of your site, this is used in the header and footer
 title_separator          : "-"
 name                     : &name "Meng'en Qin" # The name of the site owner
-description              : &description "Homepage of Meng'en Qin, who is working in field of science-inspired deep learning."
+description              : &description "Homepage of Meng'en Qin, who is working on science-inspired AI and science of AI."
 url                      : https://mason-ching.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"o
 repository               : "mason-ching/mason-ching.github.io"
