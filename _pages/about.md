@@ -71,7 +71,7 @@ redirect_from:
         Sep 2025 ~ Sep 2026,
         Shenzhen University of Advanced Technology, China
       <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
-        <li>interpretability and hallucination in MLLMs; 
+        <li>interpretability and hallucinations in MLLMs; 
           visual representation learning (work with <a href="https://scholar.google.com/citations?user=lrG9VbYAAAAJ" style="text-decoration: none;">Prof. Youlu Xing</a>, <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Dist. Prof. Song Wang</a>)
         </li>
       </ul>
