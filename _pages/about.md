@@ -102,7 +102,7 @@ redirect_from:
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
 # Service
-- Reviewer for Pattern Recognition Letters
+- Reviewer for Pattern Recognition Letters, ICASSP
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
 # Honors and Awards
