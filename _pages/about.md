@@ -27,15 +27,15 @@ redirect_from:
     <!-- dynamical principles and renormalization flows in diffusion models -->
     <!-- discrete/continuous/end-to-end/one-step diffusion models/consistency models -->
   <!-- </p> -->
-  <blockquote style="margin-top: 20px;">
+  <!-- <blockquote style="margin-top: 20px;">
     Now, I am actively looking for overseas research internships.
-  </blockquote>
+  </blockquote> -->
 </div>
 
-# News
+<!-- # News
 - **\[04/2026\]**: 🎉 A<sup>3</sup>-FPN is accepted by *Pattern Recognition*.
 - **\[05/2025\]**: 🎉 My undergraduate thesis is awarded as "Excellent Thesis".
-<hr style="border: 0.5px solid #ddd; margin: 10px 0;">
+<hr style="border: 0.5px solid #ddd; margin: 10px 0;"> -->
 
 # Education
 <div style="display: flex; align-items: center;">
