@@ -1,5 +1,5 @@
 ---
-title: "Multi-modal Data Integration Based on Convolutional Sparse Coding and Optimal Transport"
+title: "Multimodal Data Integration Based on Convolutional Sparse Coding and Optimal Transport"
 collection: patents
 # permalink: /patents/2023-CSCOT
 excerpt: |
