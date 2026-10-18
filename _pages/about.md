@@ -72,7 +72,7 @@ redirect_from:
         Sep 2025 ~ Sep 2026,
         Shenzhen University of Advanced Technology, China
       <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
-        <li>mechanistic interpretability of MLLMs/LLMs,particularly their reasoning and hallucination behavior (work with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a>, <a href="https://scholar.google.com/citations?user=lrG9VbYAAAAJ" style="text-decoration: none;">Prof. Youlu Xing</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a>)
+        <li>mechanistic interpretability of MLLMs/LLMs, particularly their reasoning and hallucination behavior (work with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a>, <a href="https://scholar.google.com/citations?user=lrG9VbYAAAAJ" style="text-decoration: none;">Prof. Youlu Xing</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a>)
         </li>
       </ul>
     </div>
@@ -93,9 +93,9 @@ redirect_from:
         Nov 2023 ~ Jun 2025,
         Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms, China
         <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
-          <li>interpretable visual representation learning and its interdisciplinary applications (work with 
+          <li>interpretable visual representation learning and its interdisciplinary applications (work with Prof. Xiaohui Yang)
           <!-- <a href="https://maths.henu.edu.cn/info/1203/5620.htm" style="text-decoration: none;">Prof. Xiaohui Yang</a> -->
-          Prof. Xiaohui Yang)</li>
+          </li>
         </ul>
       </div>
     </div>
