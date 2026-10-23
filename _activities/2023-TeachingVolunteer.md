@@ -6,7 +6,7 @@ permalink: /activities/2023-TeachingVolunteer
 excerpt: |
     <div style="text-align: justify; font-size: 16px; color: inherit; margin: 5px 0 0 20px; margin-left: 0px;">
         <p>
-            I joined Young Sprout Association of Henan University and served as vice captain of Stellar Corps (chapter for high school students). Our team brought together members from diverse discipline backgrounds, including medicine, chemistry, physics, education, business and statistics. We collaborated with <a href="http://www.lingqing.org/" style="text-decoration: none;">Lingqing Philanthropy Development Center</a> in Shanghai and co-launched a long-term volunteer project with Yuqing Middle School in Baini Town, Yuqing County, Guizhou Province. We spent most vacations (winter, summer and national vacations) on volunteer teaching activities, student mentoring, and course design. Our team created a series of engaging extracurricular programs that integrated academic concepts with real-world challenges, such as:
+            I joined Young Sprout Association of Henan University and served as vice captain of Stellar Corps (chapter for high school students). Our team brought together members from diverse discipline backgrounds, including medicine, chemistry, physics, education, business and statistics. We collaborated with <a href="http://www.lingqing.org/" style="text-decoration: none;">Lingqing Philanthropy Development Center</a> in Shanghai and co-launched a long-term volunteer project with Yuqing Middle School in Baini Town, Yuqing County, Guizhou Province. We spent most vacations on volunteer teaching activities, student mentoring, and course design. Our team created a series of engaging extracurricular programs that integrated academic concepts with real-world challenges, such as:
         </p>
         <ul style="padding-left: 30px;">
             <li>
@@ -17,7 +17,7 @@ excerpt: |
             </li>
         </ul>
         <p>
-            Hope these efforts can inspire students to decode STEM principles through gamified challenges; discover cultural wisdom within real-world contexts; develop critical thinking via cross-disciplinary exploration. Moverover, this is not merely a top-down transmission of knowledge, but a two-way learning bridge that fosters mutual growth between them and teaching volunteers across generations. The project has been sustained for over two years, and I truly hope it will continue to grow and benefit more people in the years to come.
+            Hope these efforts can inspire students to decode STEM principles through gamified challenges; discover cultural wisdom within real-world contexts; develop critical thinking via cross-disciplinary exploration. Moverover, this is not merely a top-down transmission of knowledge, but a two-way learning bridge that fosters mutual growth between them and teaching volunteers. The project has been sustained for over two years, and I truly hope it will continue to grow and benefit more people in the years to come.
         </p>
     </div>
 venue: "Shanghai Lingqing Philanthropy Development Center and Yuqing Middle School, China"

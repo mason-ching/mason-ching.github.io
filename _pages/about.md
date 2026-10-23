@@ -8,9 +8,9 @@ redirect_from:
 ---
 <div style="text-align: justify; width: 100%;">
   <p style="margin-bottom: 15px;">
-    Hi, I’m Meng’en Qin (秦蒙恩), a statistics graduate from <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>. My research journey began at the <a href="https://aita.henu.edu.cn/" style="text-decoration: none;">Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms</a>, where I explored interpretable visual representation learning and its interdisciplinary applications. 
-    Since then, I've worked on interpreting the internal mechanisms of MLLMs/LLMs, particularly their reasoning and hallucination behavior. 
-    I’m currently working with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a> at <a href="https://suat-sz.edu.cn/en/" style="text-decoration: none;">Shenzhen University of Advanced Technology</a>.
+    Hi, I’m Meng’en Qin (秦蒙恩), a statistics graduate from <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>. My research journey began at <a href="https://aita.henu.edu.cn/" style="text-decoration: none;">Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms</a>, where I explored interpretable and theory-guided visual representation learning.
+    Since then, I've also investigated the internal scientific mechanisms of MLLMs/LLMs, particularly their reasoning and hallucination behavior. Going forward, I hope to develop scientific approaches to understand AI models and use these insights to build more interpretable, robust, and reliable models.
+    <!-- I’m currently working with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a> at <a href="https://suat-sz.edu.cn/en/" style="text-decoration: none;">Shenzhen University of Advanced Technology</a>. -->
   </p>
   <!-- <p style="margin-bottom: 15px;"> -->
     <!-- Prior to that, I spent about half a year studying some topics, including semi-parametric regression, structural equation modeling, system dynamics, and sparse coding representations. Through multiple explorations and experiences, I gradually discovered a strong interest in 2D vision tasks, diffusion models, and multi-modal LLMs. In the final stage of my undergraduate life, I have shifted my focus toward these areas and actively participated in some related works. -->
@@ -72,7 +72,7 @@ redirect_from:
         Sep 2025 ~ Sep 2026,
         Shenzhen University of Advanced Technology, China
       <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
-        <li>mechanistic interpretability of MLLMs/LLMs, particularly their reasoning and hallucination behavior (work with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a>, <a href="https://scholar.google.com/citations?user=lrG9VbYAAAAJ" style="text-decoration: none;">Prof. Youlu Xing</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a>)
+        <li>mechanistic investigation of MLLMs/LLMs, particularly their reasoning and hallucination behavior (work with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a>, <a href="https://scholar.google.com/citations?user=lrG9VbYAAAAJ" style="text-decoration: none;">Prof. Youlu Xing</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a>)
         </li>
       </ul>
     </div>
@@ -93,7 +93,7 @@ redirect_from:
         Nov 2023 ~ Jun 2025,
         Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms, China
         <ul style="margin-top: 10px; margin-left: 15px; padding-left: 15px;">
-          <li>interpretable visual representation learning and its interdisciplinary applications (work with Prof. Xiaohui Yang)
+          <li>interpretable and theory-guided visual representation learning (work with Prof. Xiaohui Yang)
           <!-- <a href="https://maths.henu.edu.cn/info/1203/5620.htm" style="text-decoration: none;">Prof. Xiaohui Yang</a> -->
           </li>
         </ul>
@@ -104,7 +104,8 @@ redirect_from:
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
 # Service
-- Reviewer for Pattern Recognition, Pattern Recognition Letters, ICASSP
+- Journal Reviewer for Pattern Recognition, Pattern Recognition Letters
+- Conference Reviewer for ICASSP, NeurIPS
 <hr style="border: 0.5px solid #ddd; margin: 10px 0;">
 
 # Honors and Awards

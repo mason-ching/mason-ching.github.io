@@ -6,7 +6,7 @@ collection: projects
 excerpt: |
     <div style="text-align: justify; font-size: 16px; color: inherit; margin: 0px 0px 0px 0px;">
         <p>
-            The primary objective of this project is to design, fine-tune and deploy a secure, internally-facing Audit Large Language Model (ALLM) to empower auditors at <a href="https://sjt.henan.gov.cn/" style="text-decoration: none;">Henan Provincial Audit Department</a>. Built atop Qwen2.5-VL, ALLM need deliver intelligent support for audit Q&A, regulatory compliance and table-data analysis, improving audit efficiency and accuracy. In this project, I worked with Lutong Zhang and Haonan Zhang to finish:
+            The primary objective is to design, fine-tune and deploy a secure, internally-facing Audit Large Language Model (ALLM) to empower auditors at <a href="https://sjt.henan.gov.cn/" style="text-decoration: none;">Henan Provincial Audit Department</a>. Built on Qwen2.5-VL, ALLM need deliver intelligent support for audit Q&A, regulatory compliance and table-data analysis. In this project, I worked with Lutong Zhang and Haonan Zhang to finish:
         </p>
         <ul style="padding-left: 30px; margin-top: 0;">
             <li style="margin-bottom: 15px;">
