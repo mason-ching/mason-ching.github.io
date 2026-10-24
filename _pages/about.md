@@ -9,7 +9,7 @@ redirect_from:
 <div style="text-align: justify; width: 100%;">
   <p style="margin-bottom: 15px;">
     Hi, I’m Meng’en Qin (秦蒙恩), a statistics graduate from <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>. My research journey began at <a href="https://aita.henu.edu.cn/" style="text-decoration: none;">Henan Engineering Research Center for Artificial Intelligence Theory and Algorithms</a>, where I explored interpretable and theory-guided visual representation learning.
-    Since then, I've also investigated the internal scientific mechanisms of MLLMs/LLMs, particularly their reasoning and hallucination behavior. Going forward, I hope to develop scientific approaches to understand AI models and use these insights to build more interpretable, robust, and reliable models.
+    More recently, I have been investigating the internal scientific mechanisms of MLLMs/LLMs, particularly their reasoning and hallucination behavior. Going forward, I hope to develop scientific approaches to understand AI and use these insights to build more interpretable, robust and reliable models.
     <!-- I’m currently working with <a href="https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl" style="text-decoration: none;">Prof. Ruize Han</a> and <a href="https://openreview.net/profile?id=~Song_Wang1" style="text-decoration: none;">Distinguished Prof. Song Wang</a> at <a href="https://suat-sz.edu.cn/en/" style="text-decoration: none;">Shenzhen University of Advanced Technology</a>. -->
   </p>
   <!-- <p style="margin-bottom: 15px;"> -->
